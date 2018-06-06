@@ -1,0 +1,45 @@
+                  <div data-role="page" id="Pagina5" data-add-back-btn="true" data-theme="a">
+       <div data-role="header" data-add-back-btn="true" data-back-btn-text="Regresar" data-back-btn-theme="a">
+            <h1>Heroes del 4 y 5 de Mayo</h1>
+        </div>
+        <div data-role="content" align="center">
+            <div>
+              <!--contenido del apartado-->
+  
+    <!--inicio de boton controlgroup-->            
+ <div data-role="main" class="ui-content" align="center">
+       <div style="width:60%;">
+<ul data-role="controlgroup" data-type="vertical" data-theme="a">
+          <li class="ui-first-child ui-last-child">
+           <a href="http://www.saberia.com/quienes-lucharon-en-la-batalla-del-5-de-mayo/" data-role="button">
+           <h2>¿saber más?</h2>
+           </a>
+          </li>
+          </ul>
+        </div>
+        </div>
+    <!--fin del control group-->            
+         </div>
+        </div>
+        
+        <div data-role="footer" align="center" data-theme="a" data-position="fixed">
+            <div>
+              <img src="res/android/mdpi.png" width="46" height="46">
+            </div>
+               <h4>Aplicacion seis, MZPJ</h4>
+        </div>
+        </div>
+
+  <!--inicio del control group--> 
+     <div data-role="main" class="ui-content" align="center">
+       <div style="width:60%;">
+<ul data-role="controlgroup" data-type="vertical" data-theme="a">
+          <li class="ui-first-child ui-last-child">
+           <a href="https://culturacolectiva.com/historia/" data-role="button">
+           <h2>¿saber más?</h2>
+           </a>
+          </li>
+          </ul>
+        </div>
+        </div>
+         <!--fin del control group--> 
